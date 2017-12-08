@@ -2,3 +2,4 @@
 
 This is the first line that was added.
 This is the second line that was added.
+This is the third line.
