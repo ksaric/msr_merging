@@ -8,3 +8,6 @@ This is the fifth line.
 This is the sixth line.
 THis is the seventh line.
 
+# This is an another section which was added
+
+Hi.
